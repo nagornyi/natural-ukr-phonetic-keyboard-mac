@@ -12,13 +12,13 @@
 Розкладку створено за допомогою програми [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele)
 
 ## Звичайна розкладка
-![](https://github.com/nagornyi/natural-ukr-phonetic-keyboard-mac/raw/master/screenshots/ua-layout-normal.png)
+![](https://github.com/nagornyi/natural-ukr-phonetic-keyboard-mac/blob/main/screenshots/ua-layout-normal.png)
 
 ## Розкладка з Shift
-![](https://github.com/nagornyi/natural-ukr-phonetic-keyboard-mac/raw/master/screenshots/ua-layout-shift.png)
+![](https://github.com/nagornyi/natural-ukr-phonetic-keyboard-mac/blob/main/screenshots/ua-layout-shift.png)
 
 ## Розкладка з Alt (Option)
-![](https://github.com/nagornyi/natural-ukr-phonetic-keyboard-mac/raw/master/screenshots/ua-layout-alt.png)
+![](https://github.com/nagornyi/natural-ukr-phonetic-keyboard-mac/blob/main/screenshots/ua-layout-alt.png)
 
 ## Розкладка з Alt (Option) + Shift
-![](https://github.com/nagornyi/natural-ukr-phonetic-keyboard-mac/raw/master/screenshots/ua-layout-alt-shift.png)
+![](https://github.com/nagornyi/natural-ukr-phonetic-keyboard-mac/blob/main/screenshots/ua-layout-alt-shift.png)
